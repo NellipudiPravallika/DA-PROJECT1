@@ -23,7 +23,7 @@ CHOCOLATE-SALES-DATA-ANALYSIS
 3.	I performed data visualization(created charts) and created a simple dashboard.
    
 5.DASHBOARD:
-  <a href="https://github.com/NellipudiPravallika/DA-PROJECT1/blob/main/Screenshot%20(238).png"></a>
+  <img src="https://github.com/NellipudiPravallika/DA-PROJECT1/blob/main/Screenshot%20(238).png">
 
   
    
