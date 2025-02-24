@@ -6,6 +6,7 @@ CHOCOLATE-SALES-DATA-ANALYSIS
   
 2.DATASET USED:
   <a href="https://github.com/NellipudiPravallika/DA-PROJECT1/blob/main/excel11project.xlsx">dataset</a>
+  
 3.QUESTIONS:
   1.	What is the total sum of amount?
   2.	What is the total count of sales persons?
@@ -14,7 +15,15 @@ CHOCOLATE-SALES-DATA-ANALYSIS
   5.	What is the average amount of each sales person?
   6.	What is the average amount of each product?
   7.	Count how many boxes sold in each state?
-  8.	Dashboard interaction 
+  8.	Dashboard interaction <a href="https://github.com/NellipudiPravallika/DA-PROJECT1/blob/main/Screenshot%20(238).png">view dashboard</a>
+  
+4.PROCESS:
+1.	I verified all the data in the table and performed data cleaning.
+2.	I used some statistical functions (sum, average, count..) and created pivot tables.
+3.	I performed data visualization(created charts) and created a simple dashboard.
+   
+5.DASHBOARD:
+  <a href="https://github.com/NellipudiPravallika/DA-PROJECT1/blob/main/Screenshot%20(238).png"></a>
 
   
    
