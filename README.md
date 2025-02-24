@@ -1,11 +1,13 @@
 # DA-PROJECT1
 CHOCOLATE-SALES-DATA-ANALYSIS
 
-1.PROJECT ANALYSIS: 
-  By using this table I want to prepare a sales report on chocolates.so by using this report we can understand the analysis of customers and growth in sales.
+1.PROJECT ANALYSIS:
+
+    By using this table I want to prepare a sales report on chocolates.so by using this report we can understand the analysis of customers and growth in sales.
   
 2.DATASET USED:
-  <a href="https://github.com/NellipudiPravallika/DA-PROJECT1/blob/main/excel11project.xlsx">dataset</a>
+
+    <a href="https://github.com/NellipudiPravallika/DA-PROJECT1/blob/main/excel11project.xlsx">dataset</a>
   
 3.QUESTIONS:
   1.	What is the total sum of amount?
@@ -39,8 +41,9 @@ CHOCOLATE-SALES-DATA-ANALYSIS
   11. According to sales person "yedukondalu panditula" ha highest average sales
       
 7.FINAL CONCLUSION:
-  So according to the dashboard we have to increase the sales in Australia by promotions and digital marketing campaigns.so this dashboard shows the sales in
-  some countries and we have to increase the sales in Australia
+
+    So according to the dashboard we have to increase the sales in Australia by promotions and digital marketing campaigns.so this dashboard shows the sales in
+    some countries and we have to increase the sales in Australia
 
 
   
