@@ -24,7 +24,7 @@ By using this table I want to prepare a sales report on chocolates.so by using t
   2.	I used some statistical functions (sum, average, count..) and created pivot tables.
   3.	I performed data visualization(created charts) and created a simple dashboard.
    
-5.DASHBOARD:
+4.DASHBOARD:
   <img src="https://github.com/NellipudiPravallika/DA-PROJECT1/blob/main/Screenshot%20(238).png">
   
 6.PROJECT INSIGHTS:
